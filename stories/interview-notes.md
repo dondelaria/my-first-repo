@@ -106,4 +106,21 @@ lost. The polished introduction in `book.json` is built from these.*
 - Many recipes in the book carry these lessons (GF adaptations, no-cheese/no-sauce
   options) — tie into "Make It Your Own"
 
+## Hospitality & holidays (love language) — great for chapter openers
+- Inspiration: the large family next door growing up — embraced their Sunday meals,
+  parties, constant gathering. That's the life she wanted and built with Don.
+- Caring for people through food is her love language; cooking for others is never
+  a chore
+- Dreams up meals for diverse palates; pulls from many recipes and makes her own;
+  has a few tried-and-true company dishes
+- "Company" = neighbors, high-school friends, kids' school parents, anyone
+- THE gathering house: comfortable, welcoming, doors open
+  - kids who needed a meal came to them
+  - sent meals to people going through hard times
+- Holidays: hosted anyone who couldn't/didn't travel — Thanksgiving & Christmas
+- **Christmas Day open house** — a drop-by tradition inherited from her mom; friends
+  stop by after opening presents, kids in tow; social, joyful, special
+  -> use in HOLIDAYS chapter opener
+- Gathering-house / feeding-a-crowd energy -> use in PARTY chapter opener
+
 ## (More to come — stories per recipe, more philosophy, etc.)
