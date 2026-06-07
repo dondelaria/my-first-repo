@@ -28,7 +28,22 @@ lost. The polished introduction in `book.json` is built from these.*
 - Visited each other's families; voted best couple in college
 - He proposed on **Stockton Island, Lake Superior** (note: their son is named
   Stockton — confirm if it's the namesake!)
+- The proposal in detail:
+  - Missy was down in the galley COOKING on the sailboat
+  - Don called up: "come up, come up, quick!"
+  - Ship-to-shore radio on, playing music; sun setting; he got down on one knee
+  - Unplanned magic: "Going to the Chapel" came over the ship-to-shore radio
+    (broadcast out of Michigan) right then — "meant to be"
+  - Sailed back to port; a friend of her in-laws greeted them at the dock; they
+    shared the news and showed the ring
+  - Don's parents were hiking in Switzerland; the couple sent a FAX to announce it
+  - The parents had had a long, stressful hiking day (got separated) and at first
+    feared bad news (thought the kids had crashed/damaged the boat)
+  - Fax was relayed via a friend named Peter; began "On July 2nd, 19__ …"
+    (STORY CUT OFF — ask Missy to finish the fax/announcement story)
 - Married 1995
+- (Possible fun SIDEBAR somewhere in the book: "How Don Proposed" / "The Fax to
+  Switzerland")
 
 ## Where she grew up & how she learned to cook
 - Grew up in Grand Island, a suburb outside Buffalo, New York
