@@ -5,6 +5,7 @@ lost. The polished introduction in `book.json` is built from these.*
 
 ## The basics
 - Name: Missy Delaria
+- Husband's name: Don
 - Met husband in 1989; college sweethearts
 - Married 1995 in Wayzata, Minnesota
 - Bought a little house in Deep Haven, Minnesota
@@ -46,6 +47,11 @@ lost. The polished introduction in `book.json` is built from these.*
   - bad things can be solved or comforted by the people you love
 - Kept the family-dinner tradition all the way through high school, even when the
   kids were very active
+- House rule: **the person who cooks does not clean up.** Missy did all the prep and
+  cooking; after dinner everyone cleared their place, and Don and the kids put food
+  away, loaded the dishwasher, and washed up. Then kids did homework while Missy and
+  Don caught up on the day, helped with assignments, watched TV. Cooking was never a
+  thankless job — the whole family shared the work.
 
 ## How she started / early cooking
 - Started cooking avidly in her early twenties; began with love and curiosity, and
