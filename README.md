@@ -22,6 +22,7 @@ recipes/           ← your recipes live here, one file per recipe
   lets-make-it-easy/
   family-favorites/
   weeknight-yummy/
+  crockpot/
   holidays/
   desserts/
   party/
@@ -34,9 +35,10 @@ The chapters of the book (in order):
 1. **Let's Make It Easy** — shortcuts to making good food
 2. **Family Favorites** — the dishes the kids grew up on
 3. **Weeknight Yummy** — fast, real dinners for busy nights
-4. **Holidays — Always Ready for a Party** — seasonal showstoppers
-5. **Desserts** — treats, bakes, and bake-sale sweets
-6. **Party All the Way Till You Drop** — appetizers to entrées for a crowd
+4. **Set It & Forget It: Crockpot Favorites** — slow-cooker meals
+5. **Holidays — Always Ready for a Party** — seasonal showstoppers
+6. **Desserts** — treats, bakes, and bake-sale sweets
+7. **Party All the Way Till You Drop** — appetizers to entrées for a crowd
 
 (Every chapter shows up in the book even before it has recipes, so you can see
 the whole table of contents and fill it in as you go. Mark any recipe
