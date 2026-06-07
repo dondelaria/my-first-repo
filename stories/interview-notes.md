@@ -27,4 +27,9 @@ lost. The polished introduction in `book.json` is built from these.*
   the drive and desire to cook good food for family and friends
 - Meals changed as her parents got older and the girls were in high school
 
+## Her cooking style / philosophy
+- Region isn't strictly defined: American, European, a little Southern
+- Her cooking is defined by *taste* and by how much her family and friends enjoy it —
+  that's the only measure that matters to her
+
 ## (More to come — stories per recipe, philosophy, etc.)
