@@ -40,10 +40,18 @@ lost. The polished introduction in `book.json` is built from these.*
   - The parents had had a long, stressful hiking day (got separated) and at first
     feared bad news (thought the kids had crashed/damaged the boat)
   - Fax was relayed via a friend named Peter; began "On July 2nd, 19__ …"
-    (STORY CUT OFF — ask Missy to finish the fax/announcement story)
+  - Peter told Linda (Don's MOM / Missy's mother-in-law): "I think you need to read
+    this fax. It's not about the boat." They read it and everyone raised a glass of
+    wine to the couple that night and celebrated.
+- Back in Minneapolis: Missy's mom came to town; everyone celebrated the engagement
+  and began planning the wedding
+- The wedding: friends say it's "the wedding they base all weddings off of" — a
+  phenomenal celebration, thanks to the hard work of Missy's mom, Linda, and Don
+- Held at a country club; nearly everyone came — only ONE invitation said no
 - Married 1995
+- Names to note: Linda = Don's mother (mother-in-law)
 - (Possible fun SIDEBAR somewhere in the book: "How Don Proposed" / "The Fax to
-  Switzerland")
+  Switzerland" / "The Wedding We Base All Weddings Off Of")
 
 ## Where she grew up & how she learned to cook
 - Grew up in Grand Island, a suburb outside Buffalo, New York
