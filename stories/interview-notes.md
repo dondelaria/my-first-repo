@@ -32,4 +32,19 @@ lost. The polished introduction in `book.json` is built from these.*
 - Her cooking is defined by *taste* and by how much her family and friends enjoy it —
   that's the only measure that matters to her
 
-## (More to come — stories per recipe, philosophy, etc.)
+## The family table (a core philosophy)
+- Cooking started from the desire to have the whole family together at the table
+  every night — even when the kids were babies
+- One family meal — never cooked multiple/separate meals. "The family food was the
+  family food, and the kids ate everything." Nothing made special for the kids.
+- Kids had favorites, but learned to take a "no thank you helping"
+- Cooked balanced and nutritious so the kids got all aspects to feed growing bodies
+- Kids served themselves once able, carried plates to their place, and waited until
+  Mom and Dad were served so everyone sat down together — no rushing through dinner
+- Nightly ritual: everyone shares one good thing and one bad thing from their day
+  - good things are celebrated by the people you love
+  - bad things can be solved or comforted by the people you love
+- Kept the family-dinner tradition all the way through high school, even when the
+  kids were very active
+
+## (More to come — stories per recipe, more philosophy, etc.)
