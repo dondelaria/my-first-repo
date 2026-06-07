@@ -47,4 +47,19 @@ lost. The polished introduction in `book.json` is built from these.*
 - Kept the family-dinner tradition all the way through high school, even when the
   kids were very active
 
+## How she started / early cooking
+- Started cooking avidly in her early twenties; began with love and curiosity, and
+  has continued ever since
+- Used to bake in her apartment when she was younger
+- First things she "really nailed": **sugar cookies** and **fudge brownies** — made
+  as gifts for people, with love and joy
+- Also made a couple of good **pasta dishes** and **pork dishes** early on
+
+## Recipe leads to capture (chapter)
+- Sugar cookies — Desserts (also a gift/treat story)
+- Fudge brownies — Desserts (gift/treat story)
+- Heirloom recipes from her mom & grandmother — Family Favorites (names TBD)
+- A signature pasta dish — TBD
+- A signature pork dish — TBD
+
 ## (More to come — stories per recipe, more philosophy, etc.)
