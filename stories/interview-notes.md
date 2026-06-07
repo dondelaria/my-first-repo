@@ -21,7 +21,10 @@ lost. The polished introduction in `book.json` is built from these.*
   largely learned to cook on her own
 - Her mom and grandmother were not big cooks, but she still has a couple of their
   recipes that she uses to this day
-- Learned her basic cooking technique from **Suzie**, a housekeeper in the neighborhood
+- Learned her basic cooking technique from **Suzie — Mrs. Wiles**, a housekeeper in the neighborhood
+- Says she really learned to cook from three sources: Mrs. Wiles (the foundation),
+  a little from her mom, and a lot from herself — experimenting, trying, and having
+  the drive and desire to cook good food for family and friends
 - Meals changed as her parents got older and the girls were in high school
 
 ## (More to come — stories per recipe, philosophy, etc.)
