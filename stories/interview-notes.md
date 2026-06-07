@@ -76,4 +76,16 @@ lost. The polished introduction in `book.json` is built from these.*
   send me the recipe for…" — always something they grew up eating. The book is her
   answer to all those messages, in one place.
 
+## Cooking around the family's tastes & needs
+- Husband is the pickiest eater of the family: no condiments, no cream sauces, no
+  cheese — challenging since kids love those on their food
+- Still, everyone always had something at the table they liked
+- Later, the youngest (a daughter, one of the twins) became gluten-free for medical
+  reasons
+- Missy remade family favorites gluten-free and taught herself GF baking
+- That youngest always said she had a "dessert pocket" that wasn't filled yet
+  (great line for the Desserts chapter)
+- Many recipes in the book carry these lessons (GF adaptations, no-cheese/no-sauce
+  options) — tie into "Make It Your Own"
+
 ## (More to come — stories per recipe, more philosophy, etc.)
