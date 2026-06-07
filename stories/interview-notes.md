@@ -62,4 +62,18 @@ lost. The polished introduction in `book.json` is built from these.*
 - A signature pasta dish — TBD
 - A signature pork dish — TBD
 
+## Planning, budget & the title origin
+- Feeding a family of five on one income took preparation, thought, creativity, and
+  a budget that worked
+- Weekly ritual: plan the meals, then plan grocery shopping around them; always kept
+  healthy things in the fridge for lunches and snacks
+- The kids had their own little refrigerators stocked with healthy snacks: string
+  cheese, juice boxes, Go-Gurts, fruit cups, applesauce — allowed one without asking,
+  then had to come find Mom for more
+- Took being a mom and wife very seriously; planning + prep + energy went into the
+  meals the kids still come back for
+- **Title origin:** grown kids still text "Hey Mom…" (then the dot-dot-dot) "can you
+  send me the recipe for…" — always something they grew up eating. The book is her
+  answer to all those messages, in one place.
+
 ## (More to come — stories per recipe, more philosophy, etc.)
