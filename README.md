@@ -19,20 +19,29 @@ you can do this.
 ```
 book.json          ← the title, subtitle, and your opening note
 recipes/           ← your recipes live here, one file per recipe
-  family/
-  weeknight/
+  lets-make-it-easy/
+  family-favorites/
+  weeknight-yummy/
+  holidays/
+  desserts/
   party/
-  gluten-free/
 docs/              ← the finished website + book (this gets created for you)
 build.py           ← the little program that builds everything
 ```
 
-The four sections match the parts of the book:
+The chapters of the book (in order):
 
-- **Family Favorites** — the heirlooms and handed-down recipes
-- **Weeknight Favorites** — fast, forgiving dinners
-- **Party Favorites** — crowd-pleasers
-- **Gluten-Free Teachings** — naturally-GF dishes and swap lessons
+1. **Let's Make It Easy** — shortcuts to making good food
+2. **Family Favorites** — the dishes the kids grew up on
+3. **Weeknight Yummy** — fast, real dinners for busy nights
+4. **Holidays — Always Ready for a Party** — seasonal showstoppers
+5. **Desserts** — treats, bakes, and bake-sale sweets
+6. **Party All the Way Till You Drop** — appetizers to entrées for a crowd
+
+(Every chapter shows up in the book even before it has recipes, so you can see
+the whole table of contents and fill it in as you go. Mark any recipe
+`gluten_free: yes` and it gets a GF badge and shows up in the website's
+gluten-free filter.)
 
 ---
 

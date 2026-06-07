@@ -1,6 +1,6 @@
 ---
 title: Flourless Chocolate Cake (The One Nobody Believes Is GF)
-section: Gluten-Free Teachings
+section: Desserts
 serves: 10
 time: 1 hour, plus cooling
 gluten_free: yes

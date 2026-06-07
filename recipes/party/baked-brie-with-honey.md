@@ -1,6 +1,6 @@
 ---
 title: Baked Brie with Honey & Toasted Walnuts
-section: Party Favorites
+section: Party All the Way Till You Drop
 serves: 10 to 12 (as an appetizer)
 time: 25 minutes
 gluten_free: no

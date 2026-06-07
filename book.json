@@ -1,18 +1,22 @@
 {
   "title": "Hey Mom…",
-  "subtitle": "A collection of family favorites — and how to make any recipe your own.",
+  "subtitle": "Recipes and stories from 28 years of feeding the people I love.",
   "author": "Missy",
-  "intro": "This book started with three little words I have heard a thousand times from the kitchen doorway: “Hey Mom…” — usually followed by “what’s for dinner?” or “can you make that thing again?” These are the recipes that answered the question. Some came down to me from grandmothers and great-aunts on stained index cards; some I dreamed up on a Tuesday with whatever was in the fridge. Every one of them has been tasted, argued over, tweaked, and made our own. That last part matters most. There are no recipe police here. If your family doesn’t love cilantro, leave it out. If you can’t do gluten, I’ll show you how I work around it. A recipe is a starting point, not a contract — so look for the “Make It Your Own” notes at the end of each one. They’re my favorite part, and I hope they help you cook these dishes until they taste like *your* family, too.",
+  "intro": "[DRAFT — Missy, edit this in your own words; I wrote a starting point from what you told me.]\n\nFor twenty-eight years, my job title was Mom, and my office was the kitchen. I stayed home and raised my kids on real food — the breakfasts before school, the dinners we fought to get everyone to the table for, the snacks that somehow vanished the moment they cooled. I packed the lunches, baked the treats for every classroom party and bake sale, and hosted the gatherings where the kitchen was always the most crowded room in the house. Food was how I showed up. It's how I said good morning, congratulations, I'm sorry, and I love you, often without saying a word.\n\nThis book is the collection of all of that. The recipes my kids grew up on and still call home asking for. The shortcuts I learned so good food didn't have to be hard. The holiday traditions, the crowd-feeding feasts, and the desserts that made it to more parties than I can count. Along the way I learned that a recipe is just a starting point — the magic is in making it your own, so it fits your family the way these fit mine. I hope they make their way into your kitchen, and your memories, too.",
   "section_order": [
+    "Let's Make It Easy",
     "Family Favorites",
-    "Weeknight Favorites",
-    "Party Favorites",
-    "Gluten-Free Teachings"
+    "Weeknight Yummy",
+    "Holidays — Always Ready for a Party",
+    "Desserts",
+    "Party All the Way Till You Drop"
   ],
   "section_blurbs": {
-    "Family Favorites": "The heirlooms — recipes handed down, written in other people’s handwriting, and carried to every holiday table.",
-    "Weeknight Favorites": "Fast, forgiving, and on the table before the homework meltdown. These are the workhorses.",
-    "Party Favorites": "Crowd-pleasers for when the house is full. Make-ahead friendly and built to disappear.",
-    "Gluten-Free Teachings": "Not just “gluten-free versions” — the techniques and swaps I’ve learned so nobody at the table feels left out."
+    "Let's Make It Easy": "Shortcuts, swaps, and smart little tricks for putting genuinely good food on the table without the fuss.",
+    "Family Favorites": "The dishes my kids grew up on — the ones they still call home asking me to make.",
+    "Weeknight Yummy": "Fast, real dinners for busy nights — the everyday meals that became our everyday.",
+    "Holidays — Always Ready for a Party": "Seasonal showstoppers and the traditions that mark our year, ready whenever company comes.",
+    "Desserts": "Treats, bakes, and sweets — the ones that made it to every classroom party, bake sale, and birthday.",
+    "Party All the Way Till You Drop": "Feeding a crowd, from the first appetizer to the last entrée. Built to disappear."
   }
 }

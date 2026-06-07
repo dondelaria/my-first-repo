@@ -1,6 +1,6 @@
 ---
 title: Everyday GF Banana Bread (A Lesson in Swaps)
-section: Gluten-Free Teachings
+section: Desserts
 serves: 8 to 10
 time: 1 hour 15 minutes
 gluten_free: yes

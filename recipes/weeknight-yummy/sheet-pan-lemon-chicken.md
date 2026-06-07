@@ -1,6 +1,6 @@
 ---
 title: Sheet-Pan Lemon Chicken & Potatoes
-section: Weeknight Favorites
+section: Weeknight Yummy
 serves: 4
 time: 45 minutes
 gluten_free: yes

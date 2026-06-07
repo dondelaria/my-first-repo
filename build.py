@@ -170,19 +170,22 @@ def build_web(book: dict, recipes: list[dict]) -> str:
     details: list[str] = []
     nav_links: list[str] = []
 
-    for sec in by_section:
+    for idx, sec in enumerate(by_section, start=1):
         items = by_section[sec]
-        if not items:
-            continue
         sec_slug = slugify(sec)
         nav_links.append(f'<a href="#{sec_slug}">{html.escape(sec)}</a>')
         blurb = html.escape(blurbs.get(sec, ""))
         cards.append(
             f'<section class="sec-block" id="{sec_slug}">'
+            f'<p class="chapter-no">Chapter {idx}</p>'
             f"<h2>{html.escape(sec)}</h2>"
             f'<p class="sec-blurb">{blurb}</p>'
             '<div class="card-grid">'
         )
+        if not items:
+            cards.append(
+                '<p class="coming-soon">Recipes coming soon — this is where they\'ll go. 🍳</p>'
+            )
         for r in sorted(items, key=lambda x: x["title"]):
             tag_html = "".join(
                 f'<span class="tag">{html.escape(t)}</span>' for t in r["tags"][:4]
@@ -291,17 +294,23 @@ def build_book(book: dict, recipes: list[dict]) -> str:
     toc: list[str] = []
     pages: list[str] = []
 
-    for sec in by_section:
+    for idx, sec in enumerate(by_section, start=1):
         items = by_section[sec]
-        if not items:
-            continue
         sec_slug = slugify(sec)
-        toc.append(f'<li class="toc-section">{html.escape(sec)}</li>')
+        toc.append(f'<li class="toc-section">Chapter {idx} &middot; {html.escape(sec)}</li>')
         pages.append(
             f'<section class="book-section-divider" id="{sec_slug}">'
+            f'<p class="chapter-no">Chapter {idx}</p>'
             f"<h2>{html.escape(sec)}</h2>"
             f'<p>{html.escape(blurbs.get(sec, ""))}</p></section>'
         )
+        if not items:
+            toc.append('<li class="toc-recipe"><em>recipes coming soon</em></li>')
+            pages.append(
+                '<article class="book-recipe coming-soon-page">'
+                '<p class="coming-soon">Recipes coming soon — this is where they\'ll go. 🍳</p>'
+                "</article>"
+            )
         for r in sorted(items, key=lambda x: x["title"]):
             toc.append(
                 f'<li class="toc-recipe"><a href="#{r["slug"]}">{html.escape(r["title"])}</a>'
@@ -445,8 +454,10 @@ a { color: var(--accent); }
 main { max-width: 60rem; margin: 0 auto; padding: 0 1.5rem 3rem; }
 
 .sec-block { margin-top: 3rem; }
-.sec-block h2 { color: var(--accent); font-size: 2rem; border-bottom: 2px solid var(--accent-soft); padding-bottom: .3rem; }
+.sec-block h2 { color: var(--accent); font-size: 2rem; border-bottom: 2px solid var(--accent-soft); padding-bottom: .3rem; margin: .1rem 0; }
 .sec-blurb { font-style: italic; color: var(--muted); margin-top: -.3rem; }
+.chapter-no { font-family: var(--sans); letter-spacing: .25em; text-transform: uppercase; font-size: .72rem; color: var(--gold); margin: 0; }
+.coming-soon { grid-column: 1 / -1; text-align: center; color: var(--muted); font-style: italic; background: #fff; border: 2px dashed var(--accent-soft); border-radius: 14px; padding: 2rem; }
 
 .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); gap: 1.2rem; }
 

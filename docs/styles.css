@@ -90,8 +90,10 @@ a { color: var(--accent); }
 main { max-width: 60rem; margin: 0 auto; padding: 0 1.5rem 3rem; }
 
 .sec-block { margin-top: 3rem; }
-.sec-block h2 { color: var(--accent); font-size: 2rem; border-bottom: 2px solid var(--accent-soft); padding-bottom: .3rem; }
+.sec-block h2 { color: var(--accent); font-size: 2rem; border-bottom: 2px solid var(--accent-soft); padding-bottom: .3rem; margin: .1rem 0; }
 .sec-blurb { font-style: italic; color: var(--muted); margin-top: -.3rem; }
+.chapter-no { font-family: var(--sans); letter-spacing: .25em; text-transform: uppercase; font-size: .72rem; color: var(--gold); margin: 0; }
+.coming-soon { grid-column: 1 / -1; text-align: center; color: var(--muted); font-style: italic; background: #fff; border: 2px dashed var(--accent-soft); border-radius: 14px; padding: 2rem; }
 
 .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); gap: 1.2rem; }
 
