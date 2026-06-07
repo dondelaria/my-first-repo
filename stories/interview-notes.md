@@ -29,9 +29,13 @@ lost. The polished introduction in `book.json` is built from these.*
 - Meals changed as her parents got older and the girls were in high school
 
 ## Her cooking style / philosophy
-- Region isn't strictly defined: American, European, a little Southern
-- Her cooking is defined by *taste* and by how much her family and friends enjoy it —
-  that's the only measure that matters to her
+- Heritage roots: Polish, German, English, Scottish, American (+ a little Southern)
+- Influences: grandmother, mother, Suzie (Mrs. Wiles), and countless friends &
+  family members who each "infused" something into her cooking
+- Region isn't strictly defined
+- Philosophy: defined by taste and combinations of tastes, NOT by a specific
+  tradition or recipe — and by the love she puts into food to give to people
+- The only measure that matters: how much the people at her table enjoy it
 
 ## The family table (a core philosophy)
 - Cooking started from the desire to have the whole family together at the table
