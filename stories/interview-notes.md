@@ -6,13 +6,29 @@ lost. The polished introduction in `book.json` is built from these.*
 ## The basics
 - Name: Missy Delaria
 - Husband's name: Don
-- Met husband in 1989; college sweethearts
+- Together 37 years; met as freshmen in 1989 at Babson College
 - Married 1995 in Wayzata, Minnesota
 - Bought a little house in Deep Haven, Minnesota
 - Kendall born August 1997 (first child)
 - Twins Stockton and Larkin born September 1999
 - Family of five
 - Chose to stay home; devoted 28 years to raising the kids and feeding the family
+
+## The love story (Missy & Don)
+- Together 37 years; met freshman year 1989 at Babson College
+- Few girls in her class, so they were housed off campus and shuttled to the library
+  each morning to start classes
+- First spotted Don across the library courtyard: tall, blond, sitting on the wall in
+  Vuarnet sunglasses, pink madras shorts, and a pink polo button-down — "that guy is
+  really cute"
+- Turned out they were in the same class; started dating
+- Missy was the bold one — asked him on the first date: feed the ducks at the duck
+  pond in Wellesley, MA, then the best french fries (hot, crispy outside, tender
+  inside, salted). A "duck-feeding, french-fry" first date.
+- Visited each other's families; voted best couple in college
+- He proposed on **Stockton Island, Lake Superior** (note: their son is named
+  Stockton — confirm if it's the namesake!)
+- Married 1995
 
 ## Where she grew up & how she learned to cook
 - Grew up in Grand Island, a suburb outside Buffalo, New York
