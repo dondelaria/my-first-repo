@@ -4,7 +4,7 @@
 lost. The polished introduction in `book.json` is built from these.*
 
 ## The basics
-- Name: Missy Delaria
+- Name: Missy De Laria
 - Husband's name: Don
 - Together 37 years; met as freshmen in 1989 at Babson College
 - Married 1995 in Wayzata, Minnesota
