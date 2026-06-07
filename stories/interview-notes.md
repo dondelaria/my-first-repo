@@ -67,6 +67,15 @@ lost. The polished introduction in `book.json` is built from these.*
   the drive and desire to cook good food for family and friends
 - Meals changed as her parents got older and the girls were in high school
 
+## Honeymoon in Thailand (a big cooking influence)
+- 3-week honeymoon in Thailand after the 1995 wedding
+- Took a cooking class at the Oriental (Mandarin Oriental, Bangkok)
+- Learned: beef and broccoli, Thai basil (chicken/beef), dumplings; cooking with
+  Thai spices — "hot but doesn't linger"
+- Loved the food and culture; lasting influence on her cooking
+- Recipe leads: Thai beef & broccoli, Thai basil stir-fry, dumplings (chapter TBD —
+  maybe Weeknight Yummy or Family Favorites)
+
 ## Her cooking style / philosophy
 - Heritage roots: Polish, German, English, Scottish, American (+ a little Southern)
 - Influences: grandmother, mother, Suzie (Mrs. Wiles), and countless friends &
