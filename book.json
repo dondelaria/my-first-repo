@@ -1,0 +1,18 @@
+{
+  "title": "Hey Mom…",
+  "subtitle": "A collection of family favorites — and how to make any recipe your own.",
+  "author": "Missy",
+  "intro": "This book started with three little words I have heard a thousand times from the kitchen doorway: “Hey Mom…” — usually followed by “what’s for dinner?” or “can you make that thing again?” These are the recipes that answered the question. Some came down to me from grandmothers and great-aunts on stained index cards; some I dreamed up on a Tuesday with whatever was in the fridge. Every one of them has been tasted, argued over, tweaked, and made our own. That last part matters most. There are no recipe police here. If your family doesn’t love cilantro, leave it out. If you can’t do gluten, I’ll show you how I work around it. A recipe is a starting point, not a contract — so look for the “Make It Your Own” notes at the end of each one. They’re my favorite part, and I hope they help you cook these dishes until they taste like *your* family, too.",
+  "section_order": [
+    "Family Favorites",
+    "Weeknight Favorites",
+    "Party Favorites",
+    "Gluten-Free Teachings"
+  ],
+  "section_blurbs": {
+    "Family Favorites": "The heirlooms — recipes handed down, written in other people’s handwriting, and carried to every holiday table.",
+    "Weeknight Favorites": "Fast, forgiving, and on the table before the homework meltdown. These are the workhorses.",
+    "Party Favorites": "Crowd-pleasers for when the house is full. Make-ahead friendly and built to disappear.",
+    "Gluten-Free Teachings": "Not just “gluten-free versions” — the techniques and swaps I’ve learned so nobody at the table feels left out."
+  }
+}
