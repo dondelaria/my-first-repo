@@ -55,10 +55,22 @@ lost. The polished introduction in `book.json` is built from these.*
   as gifts for people, with love and joy
 - Also made a couple of good **pasta dishes** and **pork dishes** early on
 
+## Heirloom recipes from mom & grandmother (Family Favorites)
+- Chicken casserole
+- Potato pancakes
+- Oh Henry bars (could also live in Desserts)
+- Stuffed peppers
+- Pickled noodles — her mom's; always a big hit
+- Source: Mom's little recipe box (decorated with vegetables, labeled "My Recipes")
+  that Missy still has
+- Note: her family's cooking growing up was very well-done — chicken, steaks, pork
+  chops, lots done on the grill. Missy has since developed her own style ("I prefer
+  my cooking so much better"). As she got into her twenties, her mom and grandmother
+  started adopting HER recipes and asking her to send them.
+
 ## Recipe leads to capture (chapter)
-- Sugar cookies — Desserts (also a gift/treat story)
+- Sugar cookies — Desserts (gift/treat story)
 - Fudge brownies — Desserts (gift/treat story)
-- Heirloom recipes from her mom & grandmother — Family Favorites (names TBD)
 - A signature pasta dish — TBD
 - A signature pork dish — TBD
 
